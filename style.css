@@ -1,12 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 html {
     cursor: url(imagens/mata_mosca.png) 30 30, auto;
 }
 
 body{
+
     background-image: url(imagens/bg.jpg);
-    -moz-background-size: 100% 100%;
-    -o-background-size: 100% 100%;
-    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-size: cover;
 
